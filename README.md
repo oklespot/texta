@@ -12,6 +12,5 @@ Entre no link, e instala o app.
 
 
 https://gitlab.com/lespot/texta/-/releases
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-||||||||||||||||||||||||||||||||||||||||||
+
 
