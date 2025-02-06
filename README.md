@@ -8,6 +8,10 @@ Felizmente, Texta esta disponivel para Windows (exe) e Linux (deb, rpm)
 
 # Como Baixar
 
-Entra no Arquivo "RELEASES", clica no .exe se você esta no Windows, ou clica no .deb se você esta no Linux (debian), ou clica no .rpm se você esta no Linux (fedora).
-e depois, clica no botão de instalar e instala o programa.
+Entre no link, e instala o app.
+
+
+https://gitlab.com/lespot/texta/-/releases
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+||||||||||||||||||||||||||||||||||||||||||
 
