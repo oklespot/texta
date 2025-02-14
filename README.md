@@ -1,10 +1,4 @@
-# Um editor de texto minimalista feito no Javascript.
+# texta
+text editor made in tauri that modifys text once
 
-Texta, e um editor de texto minimalista baseado no bloco de notas.
-
-No entanto, Texta não modifica seus arquivos devido não ser muito um problema.
-
-Felizmente, Texta esta disponivel para Windows (exe) e Linux (deb, rpm)
-
-https://gitlab.com/lespot/texta/-/releases
-
+downloadable with windows, debian and fedora
